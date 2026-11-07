@@ -1,0 +1,12 @@
+# Datos guardados por la aplicación
+registro_saltos.json
+registro_arbol.json
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Editor
+.vscode/
