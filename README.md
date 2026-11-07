@@ -2,6 +2,9 @@
 
 Aplicación de escritorio en **Python (Tkinter)** para registrar y gestionar saltos con garrocha. Combina estructuras secuenciales (arreglos y matriz) con una estructura dinámica (árbol binario de búsqueda) en dos pestañas.
 
+<img width="1175" height="789" alt="captura_arreglos" src="https://github.com/user-attachments/assets/9b309202-62a1-4a95-a969-3f046e200379" />
+<img width="1175" height="785" alt="captura_arbol" src="https://github.com/user-attachments/assets/05703b8b-ea2b-4429-bc7a-fbde361210c1" />
+
 ## Qué muestra este proyecto
 - Arreglos unidimensionales y una **matriz** (atletas × alturas) para registrar saltos válidos (`X`) y nulos (`O`).
 - **Ordenamiento de burbuja** por mejor marca, con conteo de intercambios.
